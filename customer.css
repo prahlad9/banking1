@@ -1,0 +1,44 @@
+body{
+    font-family: 'Bodoni Moda';
+    font-size: 20px;
+    background-color: #f76df2;
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: #f1f0e2d3!important;
+}
+
+.navbar-brand{
+    font-family: 'BioRhyme ExpandedModa';
+    font-size: 22px;
+    font-size: 1.5rem;
+    color: #df2222!important;
+}
+
+.nav-link{
+    color: #1164e9!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #f33131;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(58, 99, 235)!important;
+    color: #ca0a06!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(23, 77, 227)!important;
+}
